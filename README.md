@@ -1,3 +1,5 @@
 # JunkYard
 Junk yard for posting items </p>
 Items in this repository are staged for dissemination
+# Enumerate Changes
+Ernst Henle leads a global data science team at HCL Technologies whose members specialize in IoT, image analytics, and predictive maintenance.  Henle has nineteen years of experience in mathematical modeling, algorithm development, and predictive analytics.  His PhD is in biophysics from the University of California, Berkeley where he created software and mathematical models to explain his experimental results.  Henle left academia to join Silicon Valley startups where he developed algorithms for image analysis. At Merck and Microsoft he devised predictive models for quality control, drug discovery, transportation, real estate investments, and predictive maintenance. At Predixion Software, Henle was the principal technical program manager and principal data scientist for the first cloud-based predictive analytics platform.  Henle teaches data science at the University of Washington and has a Google scholar I10/H-index of 12.
